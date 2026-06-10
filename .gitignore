@@ -14,8 +14,10 @@ render.js
 data.json
 draft.html
 editor.html
-layouts.html
+
 images/
+package.json
+package-lock.json
 scripts/
 .staticrypt.json
 .claude/
